@@ -1,0 +1,210 @@
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Telefonen_Ukazatel.dll.config
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Telefonen_Ukazatel.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Telefonen_Ukazatel.pdb
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\csc.exe
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\csc.exe.config
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\csc.rsp
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\csi.exe
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\csi.exe.config
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\csi.rsp
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.Managed.Core.targets
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.AppContext.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Collections.Immutable.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Console.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.IO.Compression.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.IO.FileSystem.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.IO.Pipes.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Reflection.Metadata.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Security.AccessControl.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Security.Claims.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Security.Principal.Windows.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.ValueTuple.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Xml.XmlDocument.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Xml.XPath.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\vbc.exe
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\vbc.exe.config
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\vbc.rsp
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\VBCSCompiler.exe
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\VBCSCompiler.exe.config
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Antlr3.Runtime.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\EntityFramework.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\EntityFramework.SqlServer.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.AspNet.Identity.Core.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.Cookies.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.Facebook.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.Google.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.OAuth.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.Twitter.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Web.Infrastructure.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Newtonsoft.Json.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Owin.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.Helpers.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.Mvc.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.Optimization.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.Razor.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.WebPages.Deployment.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.WebPages.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.WebPages.Razor.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\WebGrease.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.Helpers.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.Mvc.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.Optimization.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.Razor.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.WebPages.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.WebPages.Deployment.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.WebPages.Razor.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Newtonsoft.Json.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Antlr3.Runtime.pdb
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\EntityFramework.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\EntityFramework.SqlServer.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.AspNet.Identity.Core.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.Facebook.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.Cookies.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.Google.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.Twitter.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.OAuth.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\obj\Debug\Telefonen_Ukazatel.csprojAssemblyReference.cache
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\obj\Debug\Telefonen_Ukazatel.csproj.CoreCompileInputs.cache
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\obj\Debug\Telefonen_Ukazatel.csproj.CopyComplete
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\obj\Debug\Telefonen_Ukazatel.dll
+F:\12a Alexander Binchev\Telefonen_Ukazatel\Telefonen_Ukazatel\obj\Debug\Telefonen_Ukazatel.pdb
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Telefonen_Ukazatel.dll.config
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Telefonen_Ukazatel.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Telefonen_Ukazatel.pdb
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\csc.exe
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\csc.exe.config
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\csc.rsp
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\csi.exe
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\csi.exe.config
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\csi.rsp
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.AppContext.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Console.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.IO.Compression.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Security.Claims.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.ValueTuple.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\vbc.exe
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\vbc.exe.config
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\vbc.rsp
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\VBCSCompiler.exe
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Antlr3.Runtime.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\EntityFramework.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\EntityFramework.SqlServer.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Newtonsoft.Json.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Owin.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.Helpers.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.Mvc.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.Optimization.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.Razor.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.WebPages.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.WebPages.Razor.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\WebGrease.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.Helpers.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.Mvc.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.Optimization.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.Razor.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.WebPages.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\System.Web.WebPages.Razor.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Newtonsoft.Json.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Antlr3.Runtime.pdb
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\EntityFramework.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\EntityFramework.SqlServer.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\obj\Debug\Telefonen_Ukazatel.csproj.AssemblyReference.cache
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\obj\Debug\Telefonen_Ukazatel.csproj.CoreCompileInputs.cache
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\obj\Debug\Telefonen_Ukazatel.csproj.CopyComplete
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\obj\Debug\Telefonen_Ukazatel.dll
+C:\Users\abnor\Downloads\Telefonen_Ukazatel\Telefonen_Ukazatel\obj\Debug\Telefonen_Ukazatel.pdb
